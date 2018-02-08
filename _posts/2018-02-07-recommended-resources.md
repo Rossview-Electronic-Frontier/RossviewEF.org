@@ -6,7 +6,7 @@ excerpt: |
 feature_text: |
   ## GitHub Education Student Pack
   There's no substitute for hands-on experience, but for most students, real world tools can be cost prohibitive. The GitHub Student Developer Pack was created to give students free access to the best developer tools in one place so they can learn by doing.
-feature_image: "file:///home/user/Downloads/GitHub-Logos/GitHub_Logo.png"
+feature_image: "https://i.imgur.com/jGauSlR.png"
 image: "https://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png"
 ---
 
