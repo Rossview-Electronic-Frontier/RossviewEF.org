@@ -1,10 +1,4 @@
 ---
-layout: post
-title:  "Recommended Resources"
-date:   2018-02-08 11:32:01 -0600
-categories: post
----
----
 title: Recommended Resources
 category: General
 excerpt: |
