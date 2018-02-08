@@ -39,9 +39,9 @@ github:
   username: EvasivePangolin # jekyll-seo-tag > Owners Github username
 author: EvasivePangolin # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Caleb King # jekyll-seo-tag > real name
+  name: Rossview Electronic Frontier # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://github.com/EvasivePangolin
+    - https://github.com/Rossview-Electronic-Frontier/
 #    - https://www.linkedin.com/in/daviddarnes
 #    - https://plus.google.com/+DavidDarnes
 #    - https://github.com/daviddarnes
