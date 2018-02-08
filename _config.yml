@@ -34,34 +34,33 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+jekyll-mentions: https://github.com # jekyll-mentions > service used when @replying
+github:
+  username: EvasivePangolin # jekyll-seo-tag > Owners Github username
+author: EvasivePangolin # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Caleb King # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    - https://github.com/EvasivePangolin
+#    - https://www.linkedin.com/in/daviddarnes
+#    - https://plus.google.com/+DavidDarnes
+#    - https://github.com/daviddarnes
 
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Chicago # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "EFA Rossview" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Blog
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
@@ -73,13 +72,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "EFA Rossview" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "A blog page for articles from RossviewEF, updates, and other neat things." # Site description and default description, also used in jekyll-seo-tag
+url: "https://blog.rossviewef.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org"
+email: "efarossview@disroot.org"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
@@ -90,23 +89,23 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+  GitHub Repo: https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Theme by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+#  Twitter: https://twitter.com/DavidDarnes
+#  LinkedIn: https://www.linkedin.com/in/daviddarnes
+#  Google+: https://plus.google.com/+DavidDarnes
+  GitHub: https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org
+#  link: https://darn.es
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
-  Twitter: "#1DA1F2"
-  facebook: "#3B5998"
-  Google+: "#DC4E41"
+#  Twitter: "#1DA1F2"
+#  facebook: "#3B5998"
+#  Google+: "#DC4E41"
   # Pinterest: "#BD081C"
   # LinkedIn: "#0077B5"
   # tumblr: "#36465D"
