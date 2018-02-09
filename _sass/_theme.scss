@@ -54,6 +54,9 @@ body {
     @include flex-direction(column);
     @include justify-content(center);
   }
+  .h2, .p {
+    background-color: #ffffff;
+  }
 }
 
 .logo {

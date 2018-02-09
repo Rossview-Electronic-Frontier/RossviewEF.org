@@ -61,7 +61,7 @@ collections:
     description: "EFA Rossview" # The post list page content
     feature_text: |
       Blog
-    feature_image: "https://unsplash.it/1300/400?image=1067"
+    feature_image: "https://i.imgur.com/Wi6FNN2.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -80,7 +80,7 @@ baseurl: ""
 repo: "https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org"
 email: "efarossview@disroot.org"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+# avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
