@@ -12,7 +12,7 @@ Rossview Electronic Frontier is a small group of students with a common interest
 This page is currently in development.
 If you'd like to contribute, please fork our repository on GitHub. For more information please email EFARossview@Disroot.org
 
-{% include button.html text="Email Us" icon="mail" link="mailto:EFARossview@Disroot.org" color="#3ABFE6" %}
+{% include button.html text="Email Us" icon="protonmail" link="mailto:EFARossview@Disroot.org" color="#3ABFE6" %}
 {% include button.html text="GitHub" icon="github" link="https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org" color="#0366d6" %}
 
 
