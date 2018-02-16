@@ -85,9 +85,8 @@ email: "efarossview@disroot.org"
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
   Blog: /blog/
-  Categories: /categories/
+  Mirrors: /mirrors/
   Search: /search/
   GitHub Repo: https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org
 
