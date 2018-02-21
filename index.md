@@ -1,6 +1,5 @@
 ---
 title: EFA Rossview
-layout: default
 feature_text: |
   ## Rossview Electronic Frontier
   A student-led group dedicated to technology, freedom of information, and online rights. 
