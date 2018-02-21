@@ -16,11 +16,11 @@ body {
 
 .header {
   h2 {
-    color: #ffffff;
+    color: $h2Color;
     text-shadow: 2 2 $headerShadow;
   }
   p {
-    color: #ffffff;
+    color: $headerCaption;
   }
 }
 
