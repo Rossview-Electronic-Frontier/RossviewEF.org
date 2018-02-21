@@ -15,8 +15,12 @@ body {
 }
 
 .header {
-  h2, p {
-    background-color: $headerHighlight;
+  h2 {
+    color: #ffffff;
+    text-shadow: 2 2 $headerShadow;
+  }
+  p {
+    color: #ffffff;
   }
 }
 
