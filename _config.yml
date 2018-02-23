@@ -72,12 +72,12 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "EFA Rossview" # Site name or title, also used in jekyll-seo-tag
+title: "EFA @ Rossview" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "A blog page for articles from RossviewEF, updates, and other neat things." # Site description and default description, also used in jekyll-seo-tag
-url: "https://blog.rossviewef.org" # Site url, also used in jekyll-seo-tag
+description: "A small group of students at Rossview High School with a shared interest in technology and electronic rights." # Site description and default description, also used in jekyll-seo-tag
+url: "https://rossviewef.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org"
+repo: "https://github.com/Rossview-Electronic-Frontier/rossviewef.org"
 email: "efarossview@disroot.org"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
@@ -88,27 +88,28 @@ navigation_header:
   Blog: /blog/
   Mirrors: /mirrors/
   Search: /search/
-  GitHub Repo: https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org
+  GitHub: https://github.com/Rossview-Electronic-Frontier/rossviewef.org
 
 navigation_footer:
-  Theme by David Darnes: https://darn.es
+  Member of the [Electronic Frontier Alliance](https://eff.org/fight).
+  Theme by [David Darnes](https://darn.es)
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 #  Twitter: https://twitter.com/DavidDarnes
 #  LinkedIn: https://www.linkedin.com/in/daviddarnes
 #  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/Rossview-Electronic-Frontier/blog.rossviewef.org
+  GitHub: https://github.com/Rossview-Electronic-Frontier/
 #  link: https://darn.es
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
-  # Twitter: "#0d94e7"
+   Twitter: "#0d94e7"
   # facebook: "#3B5998"
   # Google+: "#DC4E41"
   # Pinterest: "#BD081C"
   # LinkedIn: "#0077B5"
   # tumblr: "#36465D"
-  # Reddit: "#FF4500"
+   Reddit: "#FF4500"
   # Hacker News: "#ff6600"
   # Designer News: "#2D72D9"
   # Email: ""
