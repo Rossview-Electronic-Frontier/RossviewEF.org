@@ -26,6 +26,8 @@
     <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
 
 		{% if site.avatarurl %}{% include site-favicons.html %}{% endif %}
+		<!--Import Font-->
+		 <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/montreal" type="text/css"/> 
 	</head>
 	<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
 		{% include site-icons.svg %}
