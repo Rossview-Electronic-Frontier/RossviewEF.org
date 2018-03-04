@@ -27,8 +27,8 @@ $bodytype: (
 );
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
-  regular: 400,
+  font-family: 'MontrealBold, serif',
+  regular: 700,
   bold: 700,
   cap-height: 0.75
 );
@@ -39,5 +39,37 @@ $monospacetype: (
   cap-height: 0.68
 );
 
-// Font import, if you're using a non-standard web font
-@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+// Font import
+// @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+// Note: Google Fonts is an ad tracker. If it's note free, you're the product.
+@font-face {
+    font-family: 'MontrealBold';
+        src: url('https://fontlibrary.org/assets/fonts/montreal/06b4c04d2714f90c51b0e1c3b8862a41/382fe94c85b449a88e82fdebeb486e9b/MontrealBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'MontrealRegular';
+        src: url('https://fontlibrary.org/assets/fonts/montreal/06b4c04d2714f90c51b0e1c3b8862a41/fcc878c1548624b121cfbf0eb2ad4256/MontrealRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+ /* The following rules are deprecated. */ 
+
+@font-face {
+    font-family: 'Montreal';
+        src: url('https://fontlibrary.org/assets/fonts/montreal/06b4c04d2714f90c51b0e1c3b8862a41/382fe94c85b449a88e82fdebeb486e9b/MontrealBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+
+
+@font-face {
+    font-family: 'Montreal';
+        src: url('https://fontlibrary.org/assets/fonts/montreal/06b4c04d2714f90c51b0e1c3b8862a41/fcc878c1548624b121cfbf0eb2ad4256/MontrealRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
