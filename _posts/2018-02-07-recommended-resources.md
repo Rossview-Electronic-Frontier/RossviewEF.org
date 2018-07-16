@@ -32,4 +32,8 @@ A non-exhaustive list of resources for students to learn about programming and s
 * [PrivacyTools.io](https://privacytools.io) - A collection of privacy tools and services with information detailing their uses and possible caveats.
 * [Proton Mail](https://protonmail.com) - Swiss-based email provider with strong privacy protections
 
+#### Career and Education Planning
+* [Maryville.edu Guide to online Bachelor's programs](https://online.maryville.edu/online-bachelors-degrees/how-to-determine-the-best-online-bachelors-degree-for-me) - Information on how to choose a career focus and bachelor's program.
+* [Your local Makerspace/Hackerspace](https://spaces.makerspace.com/directory/) - A dedicated space full of tools and equipment dedicated to making neat things. Note: Some makerspaces are missing from this map.
+
 ##### To make a suggestion, please email it to us at EFARossview@Disroot.org or Contact@RossviewEF.org
